@@ -1,2 +1,3 @@
-# rails_apps
-Rails refresher creating a few apps from railstutorial.org
+## rails_apps
+
+Rails refresher creating 3 apps from railstutorial.org.
